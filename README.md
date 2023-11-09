@@ -1,14 +1,13 @@
-# Portfolio Website Project
+# Bob's Resume Website Project
 
-This is the source code for the template resume website. Clients can view this site to have an idea of how their resume will be displayed.
+This resume website was created by "Bob's" original website. Name and other specific details were changed for privacy reasons.
 
 ## Built Using
 
 * HTML
 * CSS
 * JavaScript
-* [Roboto_Condensed](https://fonts.google.com/specimen/Roboto+Condensed?query=roboto+con)
 
 ## Additional
 
-You can visit the website by going [here](https://jreyes73.github.io/template-resume/).
+You can visit the website by going [here](https://myjourney23.github.io/Bob-resume/).
